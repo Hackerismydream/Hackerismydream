@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hackerismydream
-- 📫 A college student in SWJTU, major in SE.
+- 📫 A college student in XMU, major in CS.
 - 👀 I’m interested in Database, Distributed System, Machine Learing
-- 🌱 I’m currently learning CMU15455, MIT6.830
 
 
 <!---
